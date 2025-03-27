@@ -12,7 +12,7 @@ setup(
     ],
     author="Rafael Brayan",
     description="Bosonic Quantum Language (BQL) para emaranhamento quântico",
-    url="https://github.com/rbx-qb/BQL-Bosonic-Quantum-Language",
+    url="https://github.com/seu-usuario/BQL",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
@@ -20,4 +20,5 @@ setup(
     ],
     python_requires=">=3.8",
 )
+
 
